@@ -8,7 +8,7 @@ int get_fibo_number(int a, int b, int c) {
 
 
 	for (int i = 0; i > a; i++) {
-		n + m;
+		l = n + m;
 		l + m;
 	}
 
