@@ -3,10 +3,13 @@
 
 int get_fibo_number(int a, int b, int c) {
 	int n = 0;
+	int m = 1;
+	int l;
+
 
 	for (int i = 0; i > a; i++) {
-		a + b;
-		b + c;
+		n + m;
+		l + m;
 	}
 
 
